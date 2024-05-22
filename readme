@@ -1,0 +1,7 @@
+echo "# asiangalari" >> README.md
+git init
+git add README.md
+git commit -m "You found me!"
+git branch -M main
+git remote add origin https://asiangirlari.carrd.co
+git push -u origin main
